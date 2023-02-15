@@ -12,7 +12,7 @@ const Groz = () => {
           <h1 className='font-bold mx-auto md:text-4xl sm:text-3xl text-3xl py-2 mb-5'>Pieslēgties</h1>
           <form>
             <Alert variant='primary'>
-              Grozā nav ievietos neviena prece!
+              Grozā nav ievietos neviena prece!!!!!!
             </Alert>
           </form>
           <Button className='bg-black text-white w-auto rounded-md font-medium my-2 px-10 py-3'>Pirkt</Button>
